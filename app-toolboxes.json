@@ -115,9 +115,9 @@
 		"requirementHook": "",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "git",
 		"update": "",
-		"url": ""
+		"url": "https://github.com/ragavsathish/logging4matlab.git"
 	},
 	{
 		"extra": "",
