@@ -178,5 +178,21 @@
     	"type": "include",
     	"update": "",
     	"url": ""
-    }
+    },
+    {
+	"extra": "",
+	"flavor": "v1.0",
+	"hook": "",
+	"importance": "",
+	"localHookTemplate": "",
+	"name": "mmockito",
+	"pathPlacement": "append",
+	"requirementHook": "",
+	"subfolder": "",
+	"toolboxRoot": "",
+	"type": "git",
+	"update": "",
+	"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/mmockito.git"
+}
+
 ]
