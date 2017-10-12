@@ -5,7 +5,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "app-toolboxes",
+		"name": "AppToolbox",
 		"pathPlacement": "append",
 		"requirementHook": "",
 		"subfolder": "",
@@ -31,7 +31,7 @@
 	},
 	{
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -46,7 +46,7 @@
 	},
 	{
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -61,7 +61,7 @@
 	},
 	{
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -76,7 +76,7 @@
 	},	
     {
 		"extra": "",
-		"flavor": "",
+		"flavor": "v1.0",
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
@@ -88,6 +88,21 @@
 		"type": "git",
 		"update": "",
 		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/mdepin.git"
+	},	
+    {
+		"extra": "",
+		"flavor": "v1.0",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "MatlabPersistence",
+		"pathPlacement": "append",
+		"requirementHook": "",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https:\/\/github.com\/Matlab-App-Toolboxes\/MatlabPersistence.git"
 	},	
 	{
 	    "extra": "",
